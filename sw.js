@@ -20,7 +20,7 @@ let filesToCache = [
   "nus.png",
   "registerServiceWorker.js",
   "script.js",
-  "SEM 1 TRANSCRIPT.pdf",
+  "UPDATED TRANSCRIPT.pdf",
   "srjc.png",
   "style.css",
   "manifest.json"
